@@ -3,13 +3,13 @@ public class Person{
   float height;
   float weight;
   public void working(){
-    System.out.println("");
+    System.out.println("I am writting");
   }
   public void reading(){
-    System.out.println("");
+    System.out.println("i am reading");
   }
   public void sleeping(){
-    System.out.println("");
+    System.out.println("I am Sleeping");
   }
   public static void main(String args[]){
   
