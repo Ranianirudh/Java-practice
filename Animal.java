@@ -4,6 +4,6 @@ public class Animal{
   public void hunt(){
     System.out.println("I am Hunting");
   }
-  public Static void main(String args[]){
+  public static void main(String args[]){
   }
 }
