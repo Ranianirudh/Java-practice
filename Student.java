@@ -2,11 +2,12 @@ class Student{
   int rno;
   String name;
   float marks;
-  public reading(){
+  public void reading(){
   }
-  public writing(){
+  public void writing(){
   }
   public static void main(String args[]){
     System.out.println("");
   }
+}
   

@@ -2,11 +2,11 @@ public class Person{
   String name;
   float height;
   float weight;
-  public working(){
+  public void working(){
   }
-  public reading(){
+  public void reading(){
   }
-  public sleeping(){
+  public void sleeping(){
   }
   public static void main(String args[]){
   System.out.println("");
